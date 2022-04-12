@@ -1,5 +1,7 @@
 ### Bem vindo(a) ao meu Github, Sou Diego Guterres :sunglasses:
 
+
+:computer: - Desevolvedor full-stack desde 2013
 <!--
 **diegoguterresdasilva/diegoguterresdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
