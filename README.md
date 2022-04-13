@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/diegoguterresdasilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguterresdasilva&layout=compact&langs_count=7&theme=dracula"/>
+<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguterresdasilva&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
