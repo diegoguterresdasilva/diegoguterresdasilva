@@ -1,8 +1,8 @@
 ### Bem vindo(a) ao meu Github, Sou Diego Guterres :sunglasses:
 
 
-:computer: - Desenvolvedor full-stack desde 2013
-:iphone: - Apps na google play https://play.google.com/store/apps/developer?id=Guterres+sistemas
+ - :computer: - Desenvolvedor full-stack desde 2013
+ - :iphone: - Apps na google play https://play.google.com/store/apps/developer?id=Guterres+sistemas
 
 <!--
 **diegoguterresdasilva/diegoguterresdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
