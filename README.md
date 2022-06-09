@@ -3,8 +3,10 @@
 
  - :computer: - Desenvolvedor full-stack desde 2013
  - 👨‍🎓 - Formado em analise e desenvolvimento de sistemas
+ - 🔭 - Atualmente trabalhando como Desenvolvedor full-stack: React/ PHP-Laravel / Mysql
+ - no Grupo Urbam
  - :iphone: - Apps na google play https://play.google.com/store/apps/developer?id=Guterres+sistemas
-
+ - :iphone: - Sistema de Checklist Eletronico http://www.cilog.com.br
 <!--
 **diegoguterresdasilva/diegoguterresdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
