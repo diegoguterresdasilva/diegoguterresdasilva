@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[<div class="tenor-gif-embed" data-postid="23414225" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%"><a href="https://tenor.com/view/developer-gif-23414225">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/bKpgX.gif)
+<img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="833.0000000000001" height="692.4312500000001" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
 
 
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake.svg)
