@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img src="https://tenor.com/view/developer-gif-23414225" target="_blank">
+<img src="https://tenor.com/view/developer-gif-23414225">
 
 
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake.svg)
