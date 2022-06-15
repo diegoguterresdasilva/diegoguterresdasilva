@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="833.0000000000001" height="692.4312500000001" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
+<img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="833" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
 
 
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake.svg)
