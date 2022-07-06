@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="833" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguterresdasilva&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguterresdasilva)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake.svg)
