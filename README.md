@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="433" alt="Developer GIF - Developer GIFs" style="max-width: 433px;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguterresdasilva)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoguterresdasilva)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguterresdasilva&theme=tokyonight)-->
 
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake.svg)
