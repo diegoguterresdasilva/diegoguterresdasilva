@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="433" alt="Developer GIF - Developer GIFs" style="max-width: 433px;">
+
 ![GitHub metrics](https://metrics.lecoq.io/diegoguterresdasilva)
+
 ![Snake animation](https://github.com/diegoguterresdasilva/diegoguterresdasilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 
